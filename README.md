@@ -1,11 +1,11 @@
-![Lucky Solomon - Data Scientist](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/main/Data%20Scientist.png)
+![Lucky Solomon - Data Scientist](https://raw.githubusercontent.com/LuckySolomon/LuckySolomon/main/Data%20Scientist.png)
 
 # 👋 Hi, I'm Lucky Solomon  
 **Data Scientist | AI Engineer | ML Engineer**
 
 Innovative and proactive Data Scientist with a builder mindset, delivering end-to-end ML products from ideation to production. Strong track record in **RAG/LLM** systems, real-time fraud detection, scalable pipelines, and cross-functional leadership.
 
-📍 Nicosia, Cyprus | 📧 timotheenkwar@gmail.com | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/timothee-nkwar)
+📍 Abuja, Nigeria | 📧 luckysolex1@gmail.com | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-lucky)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
