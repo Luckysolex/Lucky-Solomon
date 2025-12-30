@@ -60,8 +60,8 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
 
 ## 📚 Education
 - **Data Science** – TS Academy (Online, Oct–Feb 2026)
-- **Embedded Artificial Intelligence** – University of Abuja (Abuja, Nigeria, Jan 2026 – Aug 2027)
-- **Bachelor of Mathematics** - Federal University of technology (Minna, Nigeria, Sept 2013 - Jun 2023)
+- **MSc Embedded Artificial Intelligence** – University of Abuja (Abuja, Nigeria, Jan 2026 – Aug 2027)
+- **BTech Mathematics** - Federal University of Technology (Minna, Nigeria, Sept 2013 - Jun 2023)
 
 ## 🚀 Featured Projects
 Pin these repos on your profile!
