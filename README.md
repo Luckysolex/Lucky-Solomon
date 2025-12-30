@@ -5,7 +5,7 @@
 
 Innovative and proactive Data Scientist with a builder mindset, delivering end-to-end ML products from ideation to production. Strong track record in **RAG/LLM** systems, real-time fraud detection, scalable pipelines, and cross-functional leadership.
 
-📍 Abuja, Nigeria | 📧 luckysolex1@gmail.com | 🌐 [timotheenkwar.me](https://timotheenkwar.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-lucky)
+📍 Abuja, Nigeria | 📧 luckysolex1@gmail.com | 🌐 | 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-lucky)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TimotheeNkwar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
@@ -59,8 +59,9 @@ Innovative and proactive Data Scientist with a builder mindset, delivering end-t
   Developed intelligent chatbot for large datasets; improved accuracy through data processing and analysis.
 
 ## 📚 Education
-- **Applied Data Science Labs** – WorldQuant University (Online, Jun–Aug 2025)
-- **Bachelor of Data Science** – Cyprus International University (Nicosia, Cyprus, Jan 2023 – Jan 2027)
+- **Data Science** – TS Academy (Online, Oct–Feb 2026)
+- **Embedded Artificial Intelligence** – University of Abuja (Abuja, Nigeria, Jan 2026 – Aug 2027)
+- **Bachelor of Mathematics** - Federal University of technology (Minna, Nigeria, Sept 2013 - Jun 2023)
 
 ## 🚀 Featured Projects
 Pin these repos on your profile!
@@ -96,9 +97,9 @@ Pin these repos on your profile!
 <hr>
 
 ## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/timothee-nkwar](https://www.linkedin.com/in/timothee-nkwar)
-- Email: timotheenkwar@gmail.com
-- Website: [timotheenkwar.me](https://timotheenkwar.me)
+- LinkedIn: [linkedin.com/in/solomon-lucky](https://www.linkedin.com/in/solomon-lucky)
+- Email: luckysolomon111@gmail.com
+- Website: [coming soon]
 
 ⭐ **Star my repos if you find them useful!** Thanks for visiting 🚀
 
